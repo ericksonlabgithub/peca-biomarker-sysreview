@@ -1,3 +1,32 @@
+### Data ###
+*.csv
+*.dat
+*.efx
+*.gbr
+*.key
+*.pps
+*.ppt
+*.pptx
+*.sdf
+*.tar
+*.tar.gz
+*.png
+*.pdf
+*.qpdata
+*.jpg
+*_obj
+*.tsv
+*.txt
+*.svg
+*_groupings
+*.tax2010
+*.vcf
+*.gif
+*.xml
+*.RDS
+*.h5
+*.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
