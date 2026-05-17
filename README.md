@@ -83,6 +83,8 @@ Key packages (see `pyproject.toml` for full list):
 - `matplotlib` / `seaborn` — visualization
 - `scipy` — statistical tests
 
+For versions and other additional information on the packages used, see `poetry.lock`.
+
 ---
 
 ## Contact
